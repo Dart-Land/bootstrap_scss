@@ -1,4 +1,4 @@
-# Bootstrap Sass Example
+# Bootstrap Scss Example
 
 This is a barebones example of how to use `bootstrap_scss` library.
 
@@ -7,5 +7,5 @@ This is a barebones example of how to use `bootstrap_scss` library.
 To run this example you should use this command:
 
 ```bash
-webdev serve
+pub run build_runner serve -o web:release --release --delete-conflicting-outputs
 ```
