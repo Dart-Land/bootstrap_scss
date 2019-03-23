@@ -118,7 +118,7 @@ issue at <https://github.com/twbs/bootstrap/issues/new>.
 
 Have a bug or a feature request to bootstrap\_scss dart port? Please
 open a new issue at
-<https://github.com/dart-league/bootstrap_scss/issues/new>.
+<https://github.com/Dart-Land/bootstrap_scss/issues/new>.
 
 # Copyright and license
 
