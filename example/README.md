@@ -1,6 +1,6 @@
 # Bootstrap Sass Example
 
-This is a barebones example of how to use `bootstrap_sass` library.
+This is a barebones example of how to use `bootstrap_scss` library.
 
 ## Running example
 

@@ -98,7 +98,7 @@ so you will end up with an `index.html` file like next one:
 
 # Credits
 
-bootstrap-sass has a number of major contributors:
+bootstrap-scss is a friendly fork of :
 
   - [Thomas McDonald](https://twitter.com/thomasmcdonald_)
 
@@ -117,7 +117,7 @@ The dart port is made by: [Luis Vargas](https://github.com/luisvt)
 Have a bug or a feature request to bootstrap core? Please open a new
 issue at <https://github.com/twbs/bootstrap/issues/new>.
 
-Have a bug or a feature request to bootstrap\_sass dart port? Please
+Have a bug or a feature request to bootstrap\_scss dart port? Please
 open a new issue at
 <https://github.com/dart-league/bootstrap_sass/issues/new>.
 

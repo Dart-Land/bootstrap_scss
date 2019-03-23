@@ -1,8 +1,8 @@
-name: bootstrap_sass
-version: 4.1.3+0
-description: Sass source files to create bootstrap themes
-author: Luis Vargas <luisvargastijerino@gmail.com>
-homepage: https://github.com/luisvt/bootstrap_sass
+name: bootstrap_scss
+version: 4.3.1
+description: Scss source files to create bootstrap themes
+author: Legion Market <bootstrap@legionmarket.com>
+homepage: https://github.com/Dart-Land/bootstrap_scss
 environment:
   sdk: '>=2.0.0-dev <3.0.0'
 dev_dependencies:
