@@ -1,9 +1,9 @@
-This project contains all the bootstrap sass source files. This project
-will be useful to create new themes using sass.
+This project contains all the bootstrap scss source files. This project
+will be useful to create new themes using scss.
 
-`bootstrap_sass` is a Sass-powered version of
+`bootstrap_scss` is a scss-powered version of
 \[Bootstrap\](<https://github.com/twbs/bootstrap>), ready to drop right
-into your Sass powered applications.
+into your scss powered applications.
 
 # Usage
 
@@ -19,24 +19,24 @@ into your Sass powered applications.
       └─ lib
          └─ ... lib files and folders ...
 
-2 - In the `pubspec.yaml` file add the `bootstrap_sass` and
-`sass_builder` dependencies as
+2 - In the `pubspec.yaml` file add the `bootstrap_scss` and
+`scss_builder` dependencies as
 bellow:
 
 ``` yaml
-name: bootstrap_sass_example # change this line to have your library name
+name: bootstrap_scss_example # change this line to have your library name
 description: An absolute bare-bones web app.
 
 environment:
   sdk: '>=2.0.0 <3.0.0'
 
 dependencies:
-  bootstrap_sass: ^4.1.3
+  bootstrap_scss: ^4.1.3
 
 dev_dependencies:
   build_runner: ^0.10.0
   build_web_compilers: ^0.4.0
-  sass_builder: ^2.0.0
+  scss_builder: ^2.0.0
 ```
 
 3 - Then in `_variables.scss` add the variables you want to modify
@@ -74,7 +74,7 @@ so you will end up with an `index.html` file like next one:
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="scaffolded-by" content="https://github.com/google/stagehand">
-      <title>bootstrap_sass_sample</title>
+      <title>bootstrap_scss_sample</title>
       <link rel="stylesheet" href="theme.css">
       <link rel="icon" href="favicon.ico">
       <script defer src="main.dart.js"></script>
@@ -98,8 +98,7 @@ so you will end up with an `index.html` file like next one:
 
 # Credits
 
-bootstrap-scss is a friendly fork of :
-
+bootstrap-scss is a friendly fork of [bootstrap_scss](https://github.com/dart-league/bootstrap_scss.git) which has a number of major contributors:
   - [Thomas McDonald](https://twitter.com/thomasmcdonald_)
 
   - [Tristan Harward](http://www.trisweb.com)
@@ -119,7 +118,7 @@ issue at <https://github.com/twbs/bootstrap/issues/new>.
 
 Have a bug or a feature request to bootstrap\_scss dart port? Please
 open a new issue at
-<https://github.com/dart-league/bootstrap_sass/issues/new>.
+<https://github.com/dart-league/bootstrap_scss/issues/new>.
 
 # Copyright and license
 
