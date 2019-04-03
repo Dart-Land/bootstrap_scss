@@ -1,3 +1,5 @@
+# Bootstrap 4.3.1 for AngularDart
+
 This project contains all the bootstrap scss source files. This project
 will be useful to create new themes using scss.
 
@@ -5,7 +7,7 @@ will be useful to create new themes using scss.
 \[Bootstrap\](<https://github.com/twbs/bootstrap>), ready to drop right
 into your scss powered applications.
 
-# Usage
+## Usage
 
 1 - Create a new project with next structure:
 
@@ -67,7 +69,6 @@ bellow:
 so you will end up with an `index.html` file like next one:
 
     <!DOCTYPE html>
-    
     <html>
     <head>
       <meta charset="utf-8">
